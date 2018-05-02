@@ -6,7 +6,7 @@ Maven command is executed in the `maven_runner.sh`, that reports back to the `do
 
 ### Build docker image
 
-`docker build -t karate_docker`
+`docker build -t karate_docker .`
 
 ### Run docker image
 
